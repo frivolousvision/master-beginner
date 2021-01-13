@@ -97,8 +97,6 @@ const idInvalidCardCompanies = (array) => {
 }
 //ENDS CARD COMPANY IDENTIFIER
 
-
-
 //TESTS BELOW
 //let firstCheck = validateCred(valid3)
 //let mysteryCheck = validateCred(batch[3])
@@ -109,5 +107,7 @@ let test = findInvalidCards(batch);
 console.log(invalidCards)
 idInvalidCardCompanies(invalidCards)
 console.log(companyArray)
+console.log(test)
 //Hey GitHub, can you see me?
 //Checking again for changes
+//Trying Again for changes!!
