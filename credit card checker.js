@@ -109,3 +109,5 @@ let test = findInvalidCards(batch);
 console.log(invalidCards)
 idInvalidCardCompanies(invalidCards)
 console.log(companyArray)
+//Hey GitHub, can you see me?
+//Checking again for changes
